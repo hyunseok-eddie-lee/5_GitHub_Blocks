@@ -1,3 +1,6 @@
+* {
+    font-family: sans-serif; /*modified*/
+}
 img.octocat {
     height: 200px;
     background-color: white;
@@ -7,6 +10,7 @@ img.octocat {
     width: 800px;
     padding: 10px;
     border-top: 3px solid black;
+    margin: 0 auto; /*modified*/
 }
 h1 {
     text-align: center;
